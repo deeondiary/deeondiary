@@ -10,14 +10,14 @@
 <br/><br/>
 
 ### 📚 Skills
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/css-663299?style=for-the-badge&logo=css&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/JavaScript-EAD54C?style=for-the-badge&logo=javascript&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/TypeScript-3075C0?style=for-the-badge&logo=typescript&logoColor=white"/><a/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><a/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=react&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/css-663299?style=flat-square&logo=css&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/JavaScript-EAD54C?style=flat-square&logo=javascript&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/TypeScript-3075C0?style=flat-square&logo=typescript&logoColor=white"/><a/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><a/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=react&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white"/><a/>
 
 <br/>
 
