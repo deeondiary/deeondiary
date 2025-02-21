@@ -1,11 +1,7 @@
-<img src="https://github.com/user-attachments/assets/feb8a4df-b778-459e-bdce-8be448836036" width="240">
-<img src="https://github.com/user-attachments/assets/68555448-9176-4675-9bc0-59bc1300af47" width="240" height="159"></br/></br/>
+<img src="https://github.com/user-attachments/assets/feb8a4df-b778-459e-bdce-8be448836036" width="240"> <br/>
 
-> [!Note]
-> 3년차 프론트엔드 개발자 입니다.
-> [자세히 보기](https://tinyurl.com/jiwonresume)
-> 
->   
+3년차 프론트엔드 개발자 입니다 🤓<br/>
+[자세히 보기](https://tinyurl.com/jiwonresume)
 
 <br/><br/>
 
@@ -37,7 +33,7 @@ to be dated !
 ### 💻 Experience
 2022.12-2024.12 프론트엔드 개발 (W 기업)
 2022.09-2024.11 QA (N 기업)
-
+<img src="https://github.com/user-attachments/assets/68555448-9176-4675-9bc0-59bc1300af47" width="240" height="159"></br/></br/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
